@@ -1,6 +1,6 @@
 #%%
 from ninjamongo.services.mongo_services import MongoService
-service = MongoService("mongodb+srv://fatur:fatur@cluster0.jmwhf.mongodb.net/todoCollection?retryWrites=true&w=majority")
+service = MongoService("")
 # %%
 service.create_todo("cek 3")
 # %%
