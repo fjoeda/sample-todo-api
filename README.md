@@ -7,4 +7,4 @@ This is a sample todo API using Django-Ninja as the API framework and MongoDb fo
 2. Set the `MONGO_DB_URL` to your MongoDb Database Connection String.
 3. Run the app using django runserver command.
 `python ./manage.py runserver`
-4. Access swagger the documentation on `/todo-api/docs`
+4. Access swagger-based documentation on `/todo-api/docs`
